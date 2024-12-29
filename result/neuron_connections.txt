@@ -1,0 +1,243 @@
+Layer 0 Weights Matrix Analysis:
+==================================================
+Neuron 3 fanout: 5
+Neuron 3 connects to next layer neuron 2 (+1)
+Neuron 3 connects to next layer neuron 4 (-1)
+Neuron 3 connects to next layer neuron 8 (-1)
+Neuron 3 connects to next layer neuron 12 (-1)
+Neuron 3 connects to next layer neuron 21 (+1)
+
+Neuron 4 fanout: 9
+Neuron 4 connects to next layer neuron 1 (+1)
+Neuron 4 connects to next layer neuron 2 (+1)
+Neuron 4 connects to next layer neuron 6 (-1)
+Neuron 4 connects to next layer neuron 14 (-1)
+Neuron 4 connects to next layer neuron 17 (+1)
+Neuron 4 connects to next layer neuron 18 (-1)
+Neuron 4 connects to next layer neuron 19 (-1)
+Neuron 4 connects to next layer neuron 21 (+1)
+Neuron 4 connects to next layer neuron 24 (-1)
+
+Neuron 5 fanout: 6
+Neuron 5 connects to next layer neuron 2 (+1)
+Neuron 5 connects to next layer neuron 3 (-1)
+Neuron 5 connects to next layer neuron 11 (+1)
+Neuron 5 connects to next layer neuron 14 (-1)
+Neuron 5 connects to next layer neuron 18 (-1)
+Neuron 5 connects to next layer neuron 21 (+1)
+
+Neuron 9 fanout: 1
+Neuron 9 connects to next layer neuron 12 (+1)
+
+Neuron 11 fanout: 5
+Neuron 11 connects to next layer neuron 2 (+1)
+Neuron 11 connects to next layer neuron 6 (+1)
+Neuron 11 connects to next layer neuron 11 (+1)
+Neuron 11 connects to next layer neuron 17 (+1)
+Neuron 11 connects to next layer neuron 24 (+1)
+
+Neuron 12 fanout: 1
+Neuron 12 connects to next layer neuron 11 (+1)
+
+Neuron 13 fanout: 1
+Neuron 13 connects to next layer neuron 14 (+1)
+
+Neuron 14 fanout: 1
+Neuron 14 connects to next layer neuron 20 (+1)
+
+Neuron 17 fanout: 2
+Neuron 17 connects to next layer neuron 18 (+1)
+Neuron 17 connects to next layer neuron 20 (+1)
+
+Neuron 18 fanout: 2
+Neuron 18 connects to next layer neuron 15 (+1)
+Neuron 18 connects to next layer neuron 24 (+1)
+
+Neuron 21 fanout: 3
+Neuron 21 connects to next layer neuron 8 (+1)
+Neuron 21 connects to next layer neuron 11 (-1)
+Neuron 21 connects to next layer neuron 20 (+1)
+
+Neuron 22 fanout: 1
+Neuron 22 connects to next layer neuron 8 (+1)
+
+Neuron 23 fanout: 6
+Neuron 23 connects to next layer neuron 3 (+1)
+Neuron 23 connects to next layer neuron 10 (+1)
+Neuron 23 connects to next layer neuron 14 (+1)
+Neuron 23 connects to next layer neuron 19 (+1)
+Neuron 23 connects to next layer neuron 20 (+1)
+Neuron 23 connects to next layer neuron 21 (-1)
+
+Neuron 24 fanout: 5
+Neuron 24 connects to next layer neuron 4 (+1)
+Neuron 24 connects to next layer neuron 8 (+1)
+Neuron 24 connects to next layer neuron 14 (+1)
+Neuron 24 connects to next layer neuron 19 (+1)
+Neuron 24 connects to next layer neuron 20 (+1)
+
+Neuron 25 fanout: 2
+Neuron 25 connects to next layer neuron 4 (+1)
+Neuron 25 connects to next layer neuron 24 (+1)
+
+Neuron 26 fanout: 2
+Neuron 26 connects to next layer neuron 14 (+1)
+Neuron 26 connects to next layer neuron 18 (+1)
+
+Neuron 27 fanout: 1
+Neuron 27 connects to next layer neuron 8 (+1)
+
+Neuron 28 fanout: 1
+Neuron 28 connects to next layer neuron 11 (+1)
+
+Neuron 29 fanout: 2
+Neuron 29 connects to next layer neuron 3 (+1)
+Neuron 29 connects to next layer neuron 12 (+1)
+
+Neuron 30 fanout: 2
+Neuron 30 connects to next layer neuron 2 (+1)
+Neuron 30 connects to next layer neuron 23 (+1)
+
+Neuron 31 fanout: 4
+Neuron 31 connects to next layer neuron 1 (+1)
+Neuron 31 connects to next layer neuron 6 (-1)
+Neuron 31 connects to next layer neuron 10 (+1)
+Neuron 31 connects to next layer neuron 21 (+1)
+
+Neuron 32 fanout: 9
+Neuron 32 connects to next layer neuron 1 (+1)
+Neuron 32 connects to next layer neuron 8 (+1)
+Neuron 32 connects to next layer neuron 10 (+1)
+Neuron 32 connects to next layer neuron 11 (+1)
+Neuron 32 connects to next layer neuron 15 (-1)
+Neuron 32 connects to next layer neuron 17 (+1)
+Neuron 32 connects to next layer neuron 19 (+1)
+Neuron 32 connects to next layer neuron 23 (+1)
+Neuron 32 connects to next layer neuron 24 (-1)
+
+Neuron 33 fanout: 1
+Neuron 33 connects to next layer neuron 4 (+1)
+
+Neuron 34 fanout: 2
+Neuron 34 connects to next layer neuron 6 (+1)
+Neuron 34 connects to next layer neuron 23 (+1)
+
+Neuron 35 fanout: 4
+Neuron 35 connects to next layer neuron 3 (-1)
+Neuron 35 connects to next layer neuron 11 (+1)
+Neuron 35 connects to next layer neuron 17 (+1)
+Neuron 35 connects to next layer neuron 21 (+1)
+
+Neuron 36 fanout: 2
+Neuron 36 connects to next layer neuron 15 (+1)
+Neuron 36 connects to next layer neuron 19 (-1)
+
+Neuron 37 fanout: 4
+Neuron 37 connects to next layer neuron 6 (+1)
+Neuron 37 connects to next layer neuron 20 (-1)
+Neuron 37 connects to next layer neuron 21 (+1)
+Neuron 37 connects to next layer neuron 24 (+1)
+
+Neuron 38 fanout: 1
+Neuron 38 connects to next layer neuron 2 (+1)
+
+Neuron 39 fanout: 1
+Neuron 39 connects to next layer neuron 6 (+1)
+
+Neuron 40 fanout: 2
+Neuron 40 connects to next layer neuron 12 (+1)
+Neuron 40 connects to next layer neuron 15 (+1)
+
+Neuron 41 fanout: 2
+Neuron 41 connects to next layer neuron 1 (+1)
+Neuron 41 connects to next layer neuron 23 (+1)
+
+Neuron 42 fanout: 1
+Neuron 42 connects to next layer neuron 23 (+1)
+
+Neuron 44 fanout: 2
+Neuron 44 connects to next layer neuron 10 (-1)
+Neuron 44 connects to next layer neuron 12 (+1)
+
+Neuron 45 fanout: 3
+Neuron 45 connects to next layer neuron 6 (+1)
+Neuron 45 connects to next layer neuron 10 (-1)
+Neuron 45 connects to next layer neuron 12 (+1)
+
+Neuron 46 fanout: 1
+Neuron 46 connects to next layer neuron 12 (+1)
+
+
+Layer 2 Weights Matrix Analysis:
+==================================================
+Neuron 1 fanout: 2
+Neuron 1 connects to next layer neuron 1 (+1)
+Neuron 1 connects to next layer neuron 2 (-1)
+
+Neuron 2 fanout: 3
+Neuron 2 connects to next layer neuron 1 (+1)
+Neuron 2 connects to next layer neuron 2 (+1)
+Neuron 2 connects to next layer neuron 3 (-1)
+
+Neuron 3 fanout: 2
+Neuron 3 connects to next layer neuron 1 (-1)
+Neuron 3 connects to next layer neuron 3 (+1)
+
+Neuron 4 fanout: 2
+Neuron 4 connects to next layer neuron 1 (-1)
+Neuron 4 connects to next layer neuron 2 (+1)
+
+Neuron 6 fanout: 1
+Neuron 6 connects to next layer neuron 2 (+1)
+
+Neuron 8 fanout: 1
+Neuron 8 connects to next layer neuron 3 (+1)
+
+Neuron 10 fanout: 1
+Neuron 10 connects to next layer neuron 2 (-1)
+
+Neuron 11 fanout: 1
+Neuron 11 connects to next layer neuron 1 (+1)
+
+Neuron 12 fanout: 1
+Neuron 12 connects to next layer neuron 2 (+1)
+
+Neuron 14 fanout: 1
+Neuron 14 connects to next layer neuron 3 (+1)
+
+Neuron 15 fanout: 1
+Neuron 15 connects to next layer neuron 2 (+1)
+
+Neuron 17 fanout: 1
+Neuron 17 connects to next layer neuron 1 (+1)
+
+Neuron 18 fanout: 1
+Neuron 18 connects to next layer neuron 3 (+1)
+
+Neuron 19 fanout: 1
+Neuron 19 connects to next layer neuron 3 (+1)
+
+Neuron 20 fanout: 1
+Neuron 20 connects to next layer neuron 3 (+1)
+
+Neuron 21 fanout: 1
+Neuron 21 connects to next layer neuron 1 (+1)
+
+Neuron 23 fanout: 1
+Neuron 23 connects to next layer neuron 1 (+1)
+
+Neuron 24 fanout: 1
+Neuron 24 connects to next layer neuron 2 (+1)
+
+
+Dead Neurons Analysis:
+==================================================
+Layer 0 dead neurons: 14
+Dead neurons: [1, 2, 6, 7, 8, 10, 15, 16, 19, 20, 43, 47, 48, 49]
+
+Layer 1 dead neurons: 6
+Dead neurons: [5, 7, 9, 13, 16, 22]
+
+Layer 2 dead neurons: 0
+
+Total dead neurons: 20
