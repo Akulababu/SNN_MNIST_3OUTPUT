@@ -9,10 +9,13 @@ final_weights.txt 是训练好的神经网络的权重文件，包括网络的�
 
 三.推理代码：
 inference.py 是推理代码，用于将训练好的神经网络应用于新数据。
-correct_case.txt 是运行推理代码后正确预测的案例文件，包括输入数据和预测结果。
+它用的是gennet8.py的网络模型，读取的是final_weight.txt作为权重文件，加载的是indataprocessing8.py的测试数据
+correct_case.txt 是运行推理代码后正确预测的案例文件，包括输入数据和预测结果。同时还包括错误预测（输出层三个神经元的产生了一个错误的脉冲输出）和无效输出（输出层的三个神经元的两个或三个产生了脉冲输出）
+
 
 四.纯数学模型验证代码：
-verify.py 是纯数学模型的验证代码，只涉及矩阵运算，用于验证神经网络的性能。
+verify.py 是纯数学模型的验证代码，只涉及矩阵运算，用于验证神经网络的性能
+它只读取correct_cases.txt里面的输入案例和验证输出，并读取final_weight.txt来取得权重文件
 verification.txt 是纯数学模型的验证结果文件，包括准确率、损失值等。
 verification_differences.txt 是纯数学模型与推理模型在验证集上的不同之处。
 
