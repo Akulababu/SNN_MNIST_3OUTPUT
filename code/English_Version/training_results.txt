@@ -1,0 +1,196 @@
+
+Epoch 1 Layer Weights Summary:
+--------------------------------------------------
+
+Quantization Distribution:
+
+Layer 0 Statistics:
+Quantization Status: Disabled
+Weight Statistics (24x49):
+Number of unique values: 193
+Value range: [-0.6211, 0.6928]
+
+Layer 2 Statistics:
+Quantization Status: Disabled
+Weight Statistics (3x24):
+Number of unique values: 25
+Value range: [-1.0000, 0.7596]
+
+Epoch [1/300], Train Loss: 1.0246, Train Accuracy: 12.45%, Test Loss: 0.9180, Test Accuracy: 39.65%
+Per-class Accuracies:
+Class 0: 76.88% (755/982)
+Class 1: 47.76% (469/982)
+Class 2: 59.47% (584/982)
+
+Epoch 2 Layer Weights Summary:
+--------------------------------------------------
+
+Quantization Distribution:
+
+Layer 0 Statistics:
+Quantization Status: Disabled
+Weight Statistics (24x49):
+Number of unique values: 99
+Value range: [-1.0000, 1.0000]
+
+Layer 2 Statistics:
+Quantization Status: Disabled
+Weight Statistics (3x24):
+Number of unique values: 17
+Value range: [-1.0000, 1.0000]
+
+Epoch [1/300], Train Loss: 0.9739, Train Accuracy: 33.42%, Test Loss: 0.9170, Test Accuracy: 45.28%
+Per-class Accuracies:
+Class 0: 65.89% (647/982)
+Class 1: 72.71% (714/982)
+Class 2: 56.01% (550/982)
+
+Epoch [2/300], Train Loss: 0.8622, Train Accuracy: 52.82%, Test Loss: 0.8245, Test Accuracy: 56.35%
+Per-class Accuracies:
+Class 0: 76.88% (755/982)
+Class 1: 73.12% (718/982)
+Class 2: 79.12% (777/982)
+
+Epoch [3/300], Train Loss: 0.7984, Train Accuracy: 59.73%, Test Loss: 0.7945, Test Accuracy: 60.90%
+Per-class Accuracies:
+Class 0: 84.11% (826/982)
+Class 1: 80.86% (794/982)
+Class 2: 70.77% (695/982)
+
+Epoch [4/300], Train Loss: 0.7900, Train Accuracy: 60.77%, Test Loss: 0.7841, Test Accuracy: 60.52%
+Per-class Accuracies:
+Class 0: 84.22% (827/982)
+Class 1: 81.98% (805/982)
+Class 2: 74.24% (729/982)
+
+Epoch [5/300], Train Loss: 0.7866, Train Accuracy: 60.53%, Test Loss: 0.7852, Test Accuracy: 59.84%
+Per-class Accuracies:
+Class 0: 83.91% (824/982)
+Class 1: 81.06% (796/982)
+Class 2: 74.75% (734/982)
+
+Epoch [6/300], Train Loss: 0.7860, Train Accuracy: 60.73%, Test Loss: 0.7812, Test Accuracy: 62.83%
+Per-class Accuracies:
+Class 0: 84.73% (832/982)
+Class 1: 80.65% (792/982)
+Class 2: 72.91% (716/982)
+
+Epoch [7/300], Train Loss: 0.7845, Train Accuracy: 61.17%, Test Loss: 0.7830, Test Accuracy: 61.37%
+Per-class Accuracies:
+Class 0: 85.34% (838/982)
+Class 1: 79.63% (782/982)
+Class 2: 75.36% (740/982)
+
+Epoch [8/300], Train Loss: 0.7840, Train Accuracy: 61.22%, Test Loss: 0.7836, Test Accuracy: 59.64%
+Per-class Accuracies:
+Class 0: 85.23% (837/982)
+Class 1: 80.65% (792/982)
+Class 2: 73.01% (717/982)
+
+Epoch [9/300], Train Loss: 0.7835, Train Accuracy: 61.45%, Test Loss: 0.7825, Test Accuracy: 60.83%
+Per-class Accuracies:
+Class 0: 83.91% (824/982)
+Class 1: 82.28% (808/982)
+Class 2: 75.25% (739/982)
+
+Epoch [10/300], Train Loss: 0.7830, Train Accuracy: 61.75%, Test Loss: 0.7803, Test Accuracy: 62.02%
+Per-class Accuracies:
+Class 0: 83.91% (824/982)
+Class 1: 82.18% (807/982)
+Class 2: 75.76% (744/982)
+
+Epoch [11/300], Train Loss: 0.7830, Train Accuracy: 61.42%, Test Loss: 0.7859, Test Accuracy: 62.39%
+Per-class Accuracies:
+Class 0: 85.34% (838/982)
+Class 1: 80.55% (791/982)
+Class 2: 70.98% (697/982)
+
+Epoch [12/300], Train Loss: 0.7827, Train Accuracy: 61.51%, Test Loss: 0.7841, Test Accuracy: 60.05%
+Per-class Accuracies:
+Class 0: 85.64% (841/982)
+Class 1: 79.23% (778/982)
+Class 2: 76.17% (748/982)
+
+Epoch [13/300], Train Loss: 0.7839, Train Accuracy: 61.34%, Test Loss: 0.7812, Test Accuracy: 61.41%
+Per-class Accuracies:
+Class 0: 84.52% (830/982)
+Class 1: 80.45% (790/982)
+Class 2: 75.46% (741/982)
+
+Epoch [14/300], Train Loss: 0.7826, Train Accuracy: 61.86%, Test Loss: 0.7847, Test Accuracy: 60.42%
+Per-class Accuracies:
+Class 0: 84.52% (830/982)
+Class 1: 80.65% (792/982)
+Class 2: 73.52% (722/982)
+
+Epoch [15/300], Train Loss: 0.7815, Train Accuracy: 61.93%, Test Loss: 0.7752, Test Accuracy: 62.05%
+Per-class Accuracies:
+Class 0: 84.01% (825/982)
+Class 1: 83.10% (816/982)
+Class 2: 74.85% (735/982)
+
+Epoch [16/300], Train Loss: 0.7771, Train Accuracy: 62.26%, Test Loss: 0.7714, Test Accuracy: 62.53%
+Per-class Accuracies:
+Class 0: 84.22% (827/982)
+Class 1: 83.20% (817/982)
+Class 2: 74.85% (735/982)
+
+Epoch [17/300], Train Loss: 0.7750, Train Accuracy: 62.60%, Test Loss: 0.7715, Test Accuracy: 63.03%
+Per-class Accuracies:
+Class 0: 83.30% (818/982)
+Class 1: 83.50% (820/982)
+Class 2: 76.37% (750/982)
+
+Epoch [18/300], Train Loss: 0.7741, Train Accuracy: 62.68%, Test Loss: 0.7731, Test Accuracy: 63.31%
+Per-class Accuracies:
+Class 0: 86.66% (851/982)
+Class 1: 80.55% (791/982)
+Class 2: 72.61% (713/982)
+
+Epoch [19/300], Train Loss: 0.7732, Train Accuracy: 63.30%, Test Loss: 0.7716, Test Accuracy: 62.83%
+Per-class Accuracies:
+Class 0: 85.44% (839/982)
+Class 1: 81.57% (801/982)
+Class 2: 72.51% (712/982)
+
+Epoch [20/300], Train Loss: 0.7688, Train Accuracy: 64.17%, Test Loss: 0.7663, Test Accuracy: 63.82%
+Per-class Accuracies:
+Class 0: 87.37% (858/982)
+Class 1: 80.14% (787/982)
+Class 2: 73.42% (721/982)
+
+Epoch [21/300], Train Loss: 0.7698, Train Accuracy: 64.04%, Test Loss: 0.7708, Test Accuracy: 61.88%
+Per-class Accuracies:
+Class 0: 87.98% (864/982)
+Class 1: 73.83% (725/982)
+Class 2: 74.03% (727/982)
+
+Epoch [22/300], Train Loss: 0.7693, Train Accuracy: 64.12%, Test Loss: 0.7641, Test Accuracy: 64.83%
+Per-class Accuracies:
+Class 0: 84.93% (834/982)
+Class 1: 83.10% (816/982)
+Class 2: 76.68% (753/982)
+
+Epoch [23/300], Train Loss: 0.7704, Train Accuracy: 63.73%, Test Loss: 0.7677, Test Accuracy: 63.92%
+Per-class Accuracies:
+Class 0: 85.85% (843/982)
+Class 1: 80.75% (793/982)
+Class 2: 76.48% (751/982)
+
+Epoch [24/300], Train Loss: 0.7695, Train Accuracy: 63.90%, Test Loss: 0.7691, Test Accuracy: 64.26%
+Per-class Accuracies:
+Class 0: 84.62% (831/982)
+Class 1: 81.26% (798/982)
+Class 2: 77.19% (758/982)
+
+Epoch [25/300], Train Loss: 0.7690, Train Accuracy: 63.36%, Test Loss: 0.7636, Test Accuracy: 64.39%
+Per-class Accuracies:
+Class 0: 85.64% (841/982)
+Class 1: 81.57% (801/982)
+Class 2: 74.44% (731/982)
+
+Epoch [26/300], Train Loss: 0.7686, Train Accuracy: 64.08%, Test Loss: 0.7656, Test Accuracy: 63.31%
+Per-class Accuracies:
+Class 0: 88.39% (868/982)
+Class 1: 77.80% (764/982)
+Class 2: 74.44% (731/982)
